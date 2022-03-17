@@ -14,6 +14,7 @@ public class ProjectRunner {
 		boolean square(int x);
 	}
 =======
+//Manan - From this I learned how to create repositories using Github and how to collabrate with another person/team in order to organize changes made to files.
 public class ProjectRunner{ 
     public static void main(String [] args){
         Quotient d= (a,b) -> System.out.printf("Number is approximately %.5f", a/b);
